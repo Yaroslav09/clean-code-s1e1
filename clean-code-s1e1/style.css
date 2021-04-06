@@ -18,8 +18,9 @@ body {
 }
 
 @media (max-width:768px) {
-.method-matrix-link { text-align: center;
-}
+    .method-matrix-link { 
+        text-align: center;
+    }
 }
 .centered-main-page-element {
     display: block;
